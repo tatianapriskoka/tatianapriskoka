@@ -44,5 +44,5 @@ I am a Frontend Developer from Minsk, Belarus.
 [![GitHub Streak](https://streak-stats.demolab.com?user=tatianapriskoka&theme=highcontrast)](https://git.io/streak-stats)
 
 
-### :fire: Most Used Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianapriskoka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### :v: Most Used Languages :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianapriskoka&theme=tokyonight)
