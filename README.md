@@ -10,7 +10,7 @@ I am a Frontend Developer from Minsk, Belarus.
 
 - :computer: I'm currently writing pet projects in React and Vanilla JS.
 
-- :paperclip: My hardscills: React, JavaScript, CSS, HTML5 and more.
+- :paperclip: My hardskills: React, JavaScript, CSS, HTML5 and more.
 
 - :zap: I study TypeScript.
 
